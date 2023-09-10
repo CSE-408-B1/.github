@@ -50,7 +50,7 @@ If you have any questions or need assistance, please don't hesitate to [contact 
 
 ## License
 
-Find the software license for this project in the [LICENSE](../LICENSE) file.
+Find the software license for this project in the [LICENSE](https://github.com/CSE-408-B1/.github/blob/main/LICENSE) file.
 
 ---
 
