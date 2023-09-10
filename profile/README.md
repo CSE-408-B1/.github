@@ -26,7 +26,7 @@ Welcome to the Dynamic Document Parser project! This software as a service (SaaS
 
 ## Getting Started
 
-To get started, simply visit our website at [Your Website URL] and follow the instructions provided.
+To get started, simply visit our website at [Dynamic Document Parser](https://view-service.akib-89.me/) and follow the instructions provided.
 
 ## Dynamic Templates
 
