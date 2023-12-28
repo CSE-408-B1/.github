@@ -53,9 +53,9 @@ If you have any questions or need assistance, please don't hesitate to [contact 
 Find the software license for this project in the [LICENSE](https://github.com/CSE-408-B1/.github/blob/main/LICENSE) file.
 
 ## Authors
-Akibur Rahman
-K M Asifur Rahman
-Sayeed Hasan Ovi
+* [Akibur Rahman](https://github.com/akib-89)
+* [K M Asifur Rahman](https://github.com/Asif-droid)
+* [Sayeed Hasan Ovi](https://github.com/Sayeed-Hasan-Ovi)
 ---
 
 
