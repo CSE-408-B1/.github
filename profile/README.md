@@ -52,6 +52,11 @@ If you have any questions or need assistance, please don't hesitate to [contact 
 
 Find the software license for this project in the [LICENSE](https://github.com/CSE-408-B1/.github/blob/main/LICENSE) file.
 
+## Authors
+Akibur Rahman
+K M Asifur Rahman
+Sayeed Hasan Ovi
 ---
+
 
 Thank you for using the Dynamic Document Parser platform! We hope it streamlines your document processing needs effectively.
